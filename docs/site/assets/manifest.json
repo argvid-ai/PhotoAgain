@@ -1,0 +1,67 @@
+{
+  "captured": "2026-11-13",
+  "assets": [
+    {
+      "file": "app-en-group.jpg",
+      "source_file": "en-group.jpg",
+      "source_context": "PhotoAgain App Store promotional screenshots, 2026-11-12",
+      "sha256": "d1d4295f6d0172ffa2b0ffecbd8608835eb9bc564bfba21a1e35efdc8804893f",
+      "kind": "actual app interface using generated fictional demonstration photographs",
+      "private_photos": false,
+      "license": "display permission in RIGHTS.md; excluded from Apache-2.0 source license",
+      "authorization": "Owner approved store demonstration and requested PhotoAgain homepage showcase; not third-party photography or real efficacy benchmark."
+    },
+    {
+      "file": "app-en-pet.jpg",
+      "source_file": "en-pet.jpg",
+      "source_context": "PhotoAgain App Store promotional screenshots, 2026-11-12",
+      "sha256": "1f94c368ec132db5e8e532b42e64c52dc4209be4a426eb3f1a0e75e8890ef7ca",
+      "kind": "actual app interface using generated fictional demonstration photographs",
+      "private_photos": false,
+      "license": "display permission in RIGHTS.md; excluded from Apache-2.0 source license",
+      "authorization": "Owner approved store demonstration and requested PhotoAgain homepage showcase; not third-party photography or real efficacy benchmark."
+    },
+    {
+      "file": "app-zh-group.jpg",
+      "source_file": "zh-group.jpg",
+      "source_context": "PhotoAgain App Store promotional screenshots, 2026-11-12",
+      "sha256": "7ca28ebc203bbf7341200ba40ea886e0defa74f8bfad6c4301e6d4ac9f944e44",
+      "kind": "actual app interface using generated fictional demonstration photographs",
+      "private_photos": false,
+      "license": "display permission in RIGHTS.md; excluded from Apache-2.0 source license",
+      "authorization": "Owner approved store demonstration and requested PhotoAgain homepage showcase; not third-party photography or real efficacy benchmark."
+    },
+    {
+      "file": "generated-native-1.png",
+      "source_file": "Examples/native-demo/synthetic-1.png",
+      "sha256": "560331a2b3924c4a78b2647ba0e4375f42b508cbaa2f129e175c536afeb57bf2",
+      "kind": "geometric fixture created by PhotoAgain demo command",
+      "license": "Apache-2.0",
+      "private_photos": false
+    },
+    {
+      "file": "generated-native-2.png",
+      "source_file": "Examples/native-demo/synthetic-2.png",
+      "sha256": "560331a2b3924c4a78b2647ba0e4375f42b508cbaa2f129e175c536afeb57bf2",
+      "kind": "geometric fixture created by PhotoAgain demo command",
+      "license": "Apache-2.0",
+      "private_photos": false
+    },
+    {
+      "file": "generated-native-3.png",
+      "source_file": "Examples/native-demo/synthetic-3.png",
+      "sha256": "72d4b4c50f743199434d76d9e6cf0b45ca637056560b29147983678b043f05ae",
+      "kind": "geometric fixture created by PhotoAgain demo command",
+      "license": "Apache-2.0",
+      "private_photos": false
+    },
+    {
+      "file": "hero.svg",
+      "kind": "original vector header; abstract illustration, not model output or application UI",
+      "source_file": "docs/site/assets/hero.svg",
+      "sha256": "426cf9895fe5a581664c8d4cffad4d51c2fa958581b8148a5da2555d8c260433",
+      "license": "Apache-2.0",
+      "private_photos": false
+    }
+  ]
+}

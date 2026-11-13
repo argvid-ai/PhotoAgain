@@ -1,0 +1,33 @@
+name: Experiment proposal
+description: Discuss a provider, policy, evaluation or architecture experiment.
+title: "[Experiment] "
+body:
+  - type: markdown
+    attributes:
+      value: "Use synthetic fixtures or aggregate results. Do not upload private photos or confidential datasets. Proposals are not adopted specifications."
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Problem and hypothesis
+      description: What outcome would improve, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Proposed scope and interfaces
+      description: Components affected, alternatives, and compatibility impact.
+    validations:
+      required: true
+  - type: textarea
+    id: evaluation
+    attributes:
+      label: Evaluation and limitations
+      description: Reproducible synthetic checks, success criteria, uncertainty, and privacy boundaries.
+    validations:
+      required: true
+  - type: textarea
+    id: provenance
+    attributes:
+      label: Dependencies and rights
+      description: Any proposed external code, runtime, model or dataset; source and license information, without private material.

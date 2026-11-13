@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+.DS_Store
+*.xcuserstate
+local-data/
+local-output/
+*.log
+
+# Explicit local input mappings contain private source paths.
+*.private.json

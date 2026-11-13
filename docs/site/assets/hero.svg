@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">PhotoAgain — An open toolkit for the second look.</title><desc id="desc">A charcoal and lavender banner with overlapping abstract photograph frames, a visual metaphor for looking again.</desc>
+<rect width="1200" height="370" rx="24" fill="#17191b"/>
+<g fill="none" stroke="#3b3f42"><path d="M54 301H1146"/><path d="M742 48V276"/></g>
+<text x="54" y="71" fill="#d4c2fa" font-size="14" letter-spacing="2" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">LOCAL EVIDENCE. HUMAN CHOICES.</text>
+<text x="50" y="155" fill="#f6f4ee" font-size="70" font-weight="650" letter-spacing="-3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">PhotoAgain<tspan fill="#d4c2fa">.</tspan></text>
+<text x="54" y="211" fill="#e1d4f8" font-size="27" font-family="Georgia,serif" font-style="italic">Some photos move you twice.</text>
+<text x="54" y="257" fill="#b6b8b5" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">An open toolkit for the second look.</text>
+<g transform="translate(811 69) rotate(-9 105 90)"><rect width="210" height="164" rx="12" fill="#2b3035" stroke="#555e64"/><rect x="13" y="13" width="184" height="122" rx="5" fill="#35464f"/><circle cx="144" cy="49" r="19" fill="#a4b6ae"/><path d="M13 123L63 70L102 105L131 87L197 135H13" fill="#202d34"/><rect x="13" y="145" width="81" height="4" rx="2" fill="#8d9699"/></g>
+<g transform="translate(913 113) rotate(8 105 90)"><rect width="210" height="164" rx="12" fill="#e9e5dd"/><rect x="13" y="13" width="184" height="122" rx="5" fill="#73698d"/><circle cx="142" cy="49" r="20" fill="#d4c2fa"/><path d="M13 125L64 73L104 107L132 90L197 135H13" fill="#454051"/><rect x="13" y="145" width="96" height="4" rx="2" fill="#78737e"/></g>
+<text x="54" y="339" fill="#b8beb6" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">SWIFT SDK + CLI   /   APPLE VISION   /   YOUR OWN RECIPES</text>
+<text x="947" y="339" fill="#d4c2fa" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">DEVELOPER ALPHA</text>
+</svg>

@@ -1,0 +1,33 @@
+name: Bug report
+description: Report a reproducible problem using a synthetic example.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not upload private photos, face crops, embeddings, personal paths, credentials, or raw runtime logs. Use a synthetic reproduction and sanitized output."
+  - type: textarea
+    id: problem
+    attributes:
+      label: Expected and actual behavior
+      description: What did you expect, and what happened?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Synthetic reproduction
+      description: Minimal commands and generated fixtures; omit personal data.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and version
+      description: PhotoAgain revision, macOS and Swift version; optional runtime/model version only if relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: Checks already performed
+      description: Sanitized errors or test results, with limitations.

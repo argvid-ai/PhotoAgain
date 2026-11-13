@@ -1,0 +1,70 @@
+{
+  "assets" : [
+    {
+      "aesthetics" : 0.816162109375,
+      "faceCount" : 0,
+      "id" : "asset-0001",
+      "missing" : [
+        {
+          "reason" : "noFaces",
+          "signal" : "faceCaptureQuality"
+        }
+      ],
+      "provider" : {
+        "capability" : "assetAnalysis",
+        "id" : "apple-vision-reference",
+        "modelVersion" : "vision-requests-v1",
+        "preprocessingVersion" : "oriented-thumbnail-2560-v1"
+      }
+    },
+    {
+      "aesthetics" : 0.816162109375,
+      "faceCount" : 0,
+      "id" : "asset-0002",
+      "missing" : [
+        {
+          "reason" : "noFaces",
+          "signal" : "faceCaptureQuality"
+        }
+      ],
+      "provider" : {
+        "capability" : "assetAnalysis",
+        "id" : "apple-vision-reference",
+        "modelVersion" : "vision-requests-v1",
+        "preprocessingVersion" : "oriented-thumbnail-2560-v1"
+      }
+    },
+    {
+      "aesthetics" : 0.830810546875,
+      "faceCount" : 0,
+      "id" : "asset-0003",
+      "missing" : [
+        {
+          "reason" : "noFaces",
+          "signal" : "faceCaptureQuality"
+        }
+      ],
+      "provider" : {
+        "capability" : "assetAnalysis",
+        "id" : "apple-vision-reference",
+        "modelVersion" : "vision-requests-v1",
+        "preprocessingVersion" : "oriented-thumbnail-2560-v1"
+      }
+    }
+  ],
+  "datasetID" : "389F4119-D906-46D2-9FD8-891AD077E216",
+  "groups" : [
+    {
+      "assetIDs" : [
+        "asset-0001",
+        "asset-0002",
+        "asset-0003"
+      ],
+      "id" : "group-0001",
+      "method" : "experimental-featureprint-connected-components-distance-0.35"
+    }
+  ],
+  "runtimeOS" : "Version 27.0.1 (Build 26A434)",
+  "schemaVersion" : 1,
+  "synthetic" : true
+}

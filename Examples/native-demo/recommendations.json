@@ -1,0 +1,24 @@
+{
+  "abstained" : true,
+  "datasetID" : "389F4119-D906-46D2-9FD8-891AD077E216",
+  "explicitExcludes" : [
+
+  ],
+  "explicitKeeps" : [
+
+  ],
+  "reasons" : [
+    "Experimental native aesthetics policy; normalized Vision overallScore; no cross-provider score fusion.",
+    "Native scores within a similarity group are too close; abstaining from automatic variety selection."
+  ],
+  "recipe" : {
+    "desiredCount" : 2,
+    "goal" : "keep-variety",
+    "minimumMargin" : 0.05,
+    "schemaVersion" : 1
+  },
+  "recommendedIDs" : [
+
+  ],
+  "schemaVersion" : 1
+}
